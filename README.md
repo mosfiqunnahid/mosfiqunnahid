@@ -50,13 +50,6 @@ Developed a Bayesian statistical modeling framework to evaluate the influence of
 
 ---
 
-### Urban Air Pollution and Public Health Risk Assessment
-Performed environmental data analysis to investigate seasonal pollution patterns, atmospheric relationships, and public health risk indicators using real-world air-quality data. Applied statistical inference, probability analysis, and regression modeling to assess pollution variability and risk factors.
-
-**Tools & Methods:** R, tidyverse, ggplot2, Wilcoxon Test, Spearman Correlation, Probability Analysis, Regression Modeling
-
----
-
 ### Smart IoT-Based Hydroponic Farming System
 Designed and developed an IoT-enabled smart hydroponic monitoring and automation system for sustainable agriculture. Integrated environmental sensors, embedded hardware, cloud-based monitoring, and automation workflows to support real-time nutrient and environmental condition tracking.
 
