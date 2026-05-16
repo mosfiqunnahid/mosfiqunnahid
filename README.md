@@ -41,26 +41,6 @@ Climate Data Analytics, Air Quality Analytics, Sustainability Analytics, Smart A
 
 ---
 
-## Selected Projects
-
-### Bayesian Analysis of Agricultural Inputs and Crop Yield Prediction
-Developed a Bayesian statistical modeling framework to evaluate the influence of agricultural inputs, irrigation dynamics, and cultivation characteristics on crop yield. Applied Bayesian Linear Regression and Bayesian Generalized Additive Models to capture both linear and non-linear agronomic relationships with uncertainty-aware prediction.
-
-**Tools & Methods:** R, Stan, brms, tidyverse, ggplot2, loo, Bayesian Linear Regression, Bayesian GAM, PPC, LOO-CV
-
----
-
-### Smart IoT-Based Hydroponic Farming System
-Designed and developed an IoT-enabled smart hydroponic monitoring and automation system for sustainable agriculture. Integrated environmental sensors, embedded hardware, cloud-based monitoring, and automation workflows to support real-time nutrient and environmental condition tracking.
-
-**Hardware & Technologies:** Arduino Mega, ESP8266, pH Sensor, EC Sensor, TDS Sensor, DHT22, Water-Level Sensor, ThingSpeak, IoT Sensors, Embedded Systems
-
----
-
-### Intelligent Environmental Monitoring System
-Developed an IoT-based environmental monitoring framework for real-time air-quality and climate-data analytics. Integrated sensor networks, embedded devices, cloud storage, and visualization workflows to support intelligent environmental monitoring and data-driven analysis.
-
-**Hardware & Cloud Technologies:** NodeMCU ESP8266, MQ-Series Gas Sensors, DHT22, PM2.5 Sensor, GPS Module, ThingSpeak, Google Cloud Platform, BigQuery
 
 ---
 
