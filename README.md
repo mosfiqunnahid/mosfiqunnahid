@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-mosfiqun.hassan%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mosfiqun.hassan@gmail.com)
 
 ### MSc Data Science Candidate at TU Dortmund University  
-### Data Engineering • Research & Development Developer • Statistical Modeling • IoT & Embedded Systems • Environmental Intelligence
+### Data Engineer • Research & Development Developer • Statistical Modeling • IoT & Embedded Systems • Environmental Intelligence
 
 ---
 
