@@ -50,20 +50,6 @@ Developed a Bayesian statistical modeling framework to evaluate the influence of
 
 ---
 
-### Global Health Inequality Analysis
-Conducted exploratory and statistical analysis of global life expectancy and under-5 mortality data across 227 countries to investigate demographic inequality, regional health disparities, and long-term public health trends.
-
-**Tools & Methods:** R, ggplot2, dplyr, Exploratory Data Analysis, Correlation Analysis, Regional Comparison, Trend Analysis
-
----
-
-### Predictive Modeling of Bike Rental Demand
-Built and evaluated regression-based predictive models to quantify the effects of environmental and temporal factors on urban bike-sharing demand. Incorporated feature engineering, non-linear temperature effects, model selection, and diagnostic validation to support interpretable demand forecasting.
-
-**Tools & Methods:** R, Multiple Linear Regression, Polynomial Regression, AIC, Residual Diagnostics, Q-Q Plots, VIF
-
----
-
 ### Urban Air Pollution and Public Health Risk Assessment
 Performed environmental data analysis to investigate seasonal pollution patterns, atmospheric relationships, and public health risk indicators using real-world air-quality data. Applied statistical inference, probability analysis, and regression modeling to assess pollution variability and risk factors.
 
